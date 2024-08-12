@@ -1,0 +1,4 @@
+Upload requirements.txt document to the working directory
+Provide your HuggingFaceHub API Token in cell No. 7 
+Run all the cells
+Upload the pdf file/files from the gradio ui
